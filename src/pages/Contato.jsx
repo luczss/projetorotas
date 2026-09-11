@@ -1,6 +1,6 @@
 
 
-const contato = () => {
+const Contato = () => {
   return (
     <>
       <h1>Fale Conosco</h1>
@@ -8,4 +8,4 @@ const contato = () => {
   )
 }
 
-export default contato
+export default Contato
